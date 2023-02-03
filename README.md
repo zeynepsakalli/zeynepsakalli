@@ -1,8 +1,8 @@
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=HiThere%20I'mZeynep%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=HiThere%20I'mZeynep%20🌈&width=700&height=350)](https://github.com/Akshay090/svg-banners)
 
 
-## Hi there I'm Zeynep. 👋
+# Hi there I'm Zeynep. 👋
 
 #### Who am I ?
 - 🔭 I’m currently studying CEIT at Istanbul University Cerrahpasa.
@@ -25,8 +25,6 @@
 
 
 
-<!--
-**zeynepsakalli/zeynepsakalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
