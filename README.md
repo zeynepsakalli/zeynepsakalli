@@ -1,8 +1,14 @@
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=HiThere%20I'mZeynep%20🌈&width=700&height=350)](https://github.com/Akshay090/svg-banners)
-
 
 # Hi there I'm Zeynep. 👋
+
+<h1 align="center">
+   Welcome to My GitHub Page
+  
+ 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+
 
 #### Who am I ?
 - 🔭 I’m currently studying CEIT at Istanbul University Cerrahpasa.
