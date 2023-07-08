@@ -15,10 +15,8 @@
 
 
 
-#### Who am I ?
+#### Who am I?
 - 🔭 I’m currently studying CEIT at Istanbul University Cerrahpasa.
-- 🌱 I’m currently learning Python in ✨**YetGen Core Python Education Program**.✨
-- ✨ I am also a participant in the ✨**Aspire Leaders Program**✨ founded by Harvard University.
 - 🤔 So I’m looking for help with Python Programming language.
 
 <h2 align="center">Social Media</h2>
