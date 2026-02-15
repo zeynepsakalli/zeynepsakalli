@@ -16,8 +16,7 @@
 
 
 #### Who am I?
-- 🔭 I’m currently studying CEIT at Istanbul University Cerrahpasa.
-- 🤔 So I’m looking for help with Python Programming language.
+- 🔭 I’m currently pursuing my masters degree in SCED at Bogazici University.
 
 <h2 align="center">Social Media</h2>
 
