@@ -1,6 +1,6 @@
 
 
-# Hi there I'm Zeynep. 👋
+# Hi there I'm Zeynep.👋
 
 <h1 align="center">
    Welcome to My GitHub Page
